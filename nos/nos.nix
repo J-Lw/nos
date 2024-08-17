@@ -5,7 +5,6 @@
    /_/ |_/  \____/ /____/
 
    01001010 01001100
-   Igne natura renovatur integra.
 */
 
 { config, pkgs, ... }:
